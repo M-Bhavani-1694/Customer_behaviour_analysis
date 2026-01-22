@@ -1,111 +1,104 @@
-📊 Customer Behavior Data Analysis – Portfolio Project
+# 📊 Customer Behavior Data Analysis – Portfolio Project
 
-📌 Project Overview
+---
 
-This project demonstrates a complete end-to-end data analytics workflow, designed to reflect how data analysts work in real-world business environments. The objective is to transform raw customer shopping data into actionable business insights using industry-standard tools and practices.
+## 📌 **__Project Overview__**
 
-The project covers the full analytics lifecycle — from data preparation and analysis to visualization, reporting, and decision-making support.
+This project represents a **complete end-to-end data analytics workflow**, similar to how data analysts work in real business environments.  
+The goal is to convert **raw customer shopping data** into **meaningful business insights** using industry-relevant tools.
 
+It covers the full analytics process — from data preparation to analysis, visualization, and reporting.
 
-🎯 Objectives
+---
 
-Analyze customer shopping behavior and purchasing patterns
+## 🎯 **__Objectives__**
 
-Identify key customer segments and loyalty drivers
+- Analyze customer shopping behavior and purchase patterns  
+- Identify customer segments and loyalty drivers  
+- Generate insights to support data-driven decisions  
+- Build an interactive dashboard for stakeholder reporting  
 
-Generate insights that support data-driven business decisions
+---
 
-Build an interactive dashboard for stakeholder reporting
+## 🛠️ **__Tools & Technologies__**
 
+- **Python** – Data cleaning, transformation, and EDA  
+- **SQL** – Business-focused analysis and querying  
+- **Power BI** – Interactive dashboards and visualization  
+- **Jupyter Notebook** – Analysis and documentation  
 
-🛠️ Tools & Technologies
+---
 
-Python – Data cleaning, transformation, and EDA
+## 🔄 **__Project Workflow__**
 
-SQL – Business-focused querying and analysis
+### 1️⃣ Data Preparation & EDA (Python)
+- Imported and explored raw customer data  
+- Handled missing values and inconsistencies  
+- Performed exploratory analysis to understand patterns  
 
-Power BI – Interactive dashboard and visualization
+### 2️⃣ Data Analysis (SQL)
+- Created a structured SQL database  
+- Loaded cleaned data into the database  
+- Wrote SQL queries to analyze:
+  - Customer segmentation  
+  - Purchase behavior  
+  - Loyalty and spending trends  
 
-Jupyter Notebook – Analysis and documentation
+### 3️⃣ Visualization & Insights (Power BI)
+- Connected SQL database to Power BI  
+- Built an interactive dashboard highlighting:
+  - Customer trends  
+  - Revenue drivers  
+  - Key performance indicators  
 
-🔄 Project Workflow
-1️⃣ Data Preparation & Exploratory Data Analysis (Python)
+### 4️⃣ Reporting & Presentation
+- Documented key findings and insights  
+- Summarized business recommendations  
+- Prepared a presentation for non-technical stakeholders  
 
-Imported and explored raw customer data
+---
 
-Handled missing values and inconsistencies
+## 🚀 **__How to Run the Project__**
 
-Performed feature understanding and exploratory analysis
+1. Clone the repository  
 
-2️⃣ Data Analysis (SQL)
+   ```bash
+   git clone <your-repo-link>
 
-Created a structured SQL database
+2. Open the Jupyter Notebook  
+  **`Customer_Shopping_Behavior_Analysis.ipynb`**
 
-Loaded cleaned data into the database
+3. Run all the cells to clean, process, and analyze the data
 
-Wrote SQL queries to answer real business questions related to:
+4. Load the processed dataset into your **SQL database**
 
-Customer segmentation
+5. Execute the SQL queries available in the **`.sql` file**
 
-Purchase behavior
+6. Open the **Power BI dashboard** to explore insights and visualizations
 
-Loyalty and spending patterns
+---
 
-3️⃣ Visualization & Insights (Power BI)
+## **__📈 Key Learnings__**
 
-Connected SQL database to Power BI
+- Understood the **end-to-end data analytics workflow**
+- Gained hands-on experience with **Python, SQL, and Power BI**
+- Learned how to convert **raw data into meaningful business insights**
+- Improved skills in:
+  - Data cleaning
+  - Writing SQL queries
+  - Creating interactive dashboards
 
-Designed an interactive dashboard showcasing:
+---
 
-Customer trends
+## **__👩‍💻 About Me__**
 
-Revenue drivers
+Hi, I’m **Bhavani**, an aspiring **Data Analyst** with hands-on experience in **Python, SQL, and Power BI**.  
+I enjoy working with real-world datasets to uncover insights, solve problems, and help businesses make data-driven decisions.
 
-Key performance indicators
+I am proactive in building **end-to-end portfolio projects** that showcase my ability to clean, analyze, and visualize data effectively.  
+I focus on producing clear, actionable insights and delivering professional-quality dashboards and reports.
 
-4️⃣ Reporting & Presentation
+- 📍 **Interests:** Data Analytics, Business Intelligence, Customer Behavior Analysis, Data Visualization, Reporting & Insights  
+- 🚀 **Currently focusing on:** Strengthening Python & SQL skills, building impactful dashboards, and mastering end-to-end analytics workflows
 
-Documented key findings and insights
-
-Summarized business recommendations
-
-Prepared a presentation for non-technical stakeholders
-
-
-🚀 How to Run the Project
-
-Clone this repository
-
-git clone <your-repo-link>
-
-
-Open the Jupyter Notebook
-
-Customer_Shopping_Behavior_Analysis.ipynb
-
-Run data cleaning and analysis steps
-
-Load the processed data into your SQL database
-
-Execute SQL queries from the .sql file
-
-Open the Power BI dashboard file to explore insights
-
-
-📈 Key Learnings
-
-Practical experience with end-to-end data analytics workflows
-
-Hands-on application of Python, SQL, and Power BI together
-
-Translating raw data into meaningful business insights
-
-Building dashboards and reports for decision-making
-
-## 👩‍💻 About Me
-Hi, I’m **Bhavani**, an aspiring Data Analyst with a strong foundation in **Python, SQL, and Power BI**. I enjoy working with data to uncover patterns, answer business questions, and transform raw information into clear, actionable insights.
-
-I am actively building **end-to-end, industry-aligned projects** to strengthen my analytical thinking, technical skills, and real-world problem-solving ability. My goal is to contribute to data-driven decision-making in dynamic business environments while continuously learning and growing as a professional.
-
-📍 Interests: Data Analytics, Business Intelligence, Customer Insights  
-🚀 Currently focused on: Portfolio projects, SQL optimization, and dashboard storytelling
+---
