@@ -92,7 +92,7 @@ It covers the full analytics process — from data preparation to analysis, visu
 
 ## **__👩‍💻 About Me__**
 
-Hi, I’m **Bhavani**, an aspiring **Data Analyst** with hands-on experience in **Python, SQL, and Power BI**.  
+Hi, I’m **Bhavani**, an aspiring **Analyst** with hands-on experience in **Python, SQL, and Power BI**.  
 I enjoy working with real-world datasets to uncover insights, solve problems, and help businesses make data-driven decisions.
 
 I am proactive in building **end-to-end portfolio projects** that showcase my ability to clean, analyze, and visualize data effectively.  
